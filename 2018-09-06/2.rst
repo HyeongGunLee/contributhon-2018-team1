@@ -1,0 +1,5 @@
+=======================
+Send PR with new Branch
+=======================
+
+''git checkout -b [branch name]'' 
